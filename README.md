@@ -5,6 +5,7 @@ Very simple and lightweight
 
 Doesn't stay running in background, no systemtray icon or any notifications
 
+Jut make sure to unpack before installing
 
 I made it becouse i needed the function and could not find anything like this
 
