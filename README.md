@@ -11,7 +11,7 @@ Doesn't stay running in background, no systemtray icon or any notifications
 
 ########################################################################################
 
-Made it becouse i needed the function and could not find anything like this
+Made it because i needed the function and could not find anything like this
 
 Desided to make it a little more user friendly and share it online so others could enjoy
 
