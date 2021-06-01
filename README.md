@@ -1,7 +1,8 @@
 # SetVol
 A little program that allows to set a specific volume on windows startup
 
-Very Simple and lightweight, no systemtray icon or any notifications
+Very simple and lightweight
+Doesn't run in the background, no systemtray icon or any notifications
 
 
 I made it becouse i needed the function and could not find anything like this
