@@ -2,6 +2,7 @@
 A little program that allows to set a specific volume on windows startup
 
 Very simple and lightweight
+
 Doesn't run in the background, no systemtray icon or any notifications
 
 
