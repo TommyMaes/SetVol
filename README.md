@@ -1,5 +1,5 @@
 # SetVol
-A little program that allows to set a specific volume on every windows startup
+A little program that sets a specific volume on every windows startup
 
 Very simple and lightweight
 
