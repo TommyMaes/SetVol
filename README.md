@@ -9,6 +9,11 @@ Very simple and lightweight
 
 Doesn't stay running in background, no systemtray icon or any notifications
 
+
+Working on option for sleep/hibernation. For now only works on startup
+
+after shutdown or restart
+
 ########################################################################################
 
 Made it because i needed the function and could not find anything like this
