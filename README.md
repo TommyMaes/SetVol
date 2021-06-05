@@ -9,16 +9,9 @@ Very simple and lightweight
 
 Doesn't stay running in background, no systemtray icon or any notifications
 
-
-Working on option for sleep/hibernation. For now only works on startup
-
-after shutdown or restart
-
 ########################################################################################
 
-Made it because i needed the function and could not find anything like this
-
-Desided to make it a little more user friendly and share it online so others could enjoy
+Working on option for sleep/hibernation. For now only works on startup after shutdown or restart
 
 ########################################################################################
 
