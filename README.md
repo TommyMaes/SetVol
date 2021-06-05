@@ -1,4 +1,4 @@
-# SetVol
+# SetVol by TommyMaes
 A little program that sets a specific volume on every windows startup
 
 Jut make sure to unpack before installing
