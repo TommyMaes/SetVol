@@ -13,7 +13,7 @@ Doesn't stay running in background, no systemtray icon or any notifications
 
 ------------------------- Manual ---------------------------
 -
--     Use Installer to install SetVol
+     Use Installer to install SetVol
 -     On the desktop there will be SetVolConfig and SetVolTest
 -     Delete them if you want
 -     Use SetVolConfig to configure the desired volume
