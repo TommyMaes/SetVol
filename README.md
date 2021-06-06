@@ -21,7 +21,7 @@ Doesn't stay running in background, no systemtray icon or any notifications
 -     Use DisableStartup to disable on startup
 -     Use FixStartup to enable on startup
 -     Use Uninstaller to uninstall SetVol  
--
+
 -----------------------------------------------------------
 
 ################################################################################
