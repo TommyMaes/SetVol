@@ -26,6 +26,7 @@ Working on option for sleep/hibernation. For now only works on startup after shu
   Install location: C:\SetVol
   
   On the desktop there will be SetVol and SetVolTest
+  
   Delete them if you want, they are also located in C:\SetVol
   
   - Use SetVolTest to manually activate the preset 
