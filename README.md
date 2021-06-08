@@ -22,25 +22,25 @@ Working on option for sleep/hibernation. For now only works on startup after shu
 
   - Use Installer for installation
   
-  Install location: C:\SetVol
+    Install location: C:\SetVol
   
-  On the desktop there will be SetVol and SetVolTest
+    On the desktop there will be SetVol and SetVolTest
   
-  Delete them if you want, they are also located in C:\SetVol
+    Delete them if you want, they are also located in C:\SetVol
   
   - Use SetVolTest to manually activate the preset 
   
   - Use SetVol to:
  
-  Configure the desired volume
+    Configure the desired volume
   
-  Test the volume
+    Test the volume
  
-  Disable on startup
+    Disable on startup
  
-  Enable on startup
+    Enable on startup
 
-  Uninstall SetVol  
+    Uninstall SetVol  
   
   ##############################################################
 
