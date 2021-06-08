@@ -17,7 +17,6 @@ Working on option for sleep/hibernation. For now only works on startup after shu
   -------------------------- Manual ----------------------------
   --------------------------------------------------------------
 
--
 
   - Unpack before installing
 
