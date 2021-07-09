@@ -13,10 +13,11 @@ Working on option for sleep/hibernation. For now only works on startup after shu
 
 ################################################################################
 
-![setvol_menu](https://user-images.githubusercontent.com/85175227/125132360-7f7dc600-e104-11eb-932d-10eead5c50c3.JPG)
+![setvol_menu](https://user-images.githubusercontent.com/85175227/125133592-59592580-e106-11eb-88c1-e1e8a140d9c5.JPG)
 
 
-![setvol_volume](https://user-images.githubusercontent.com/85175227/125132365-81e02000-e104-11eb-8fbf-414e47921c46.JPG)
+![setvol_volume](https://user-images.githubusercontent.com/85175227/125133600-5b22e900-e106-11eb-83b9-5d282f0c68e0.JPG)
+
 
   --------------------------------------------------------------
   -------------------------- Manual ----------------------------
