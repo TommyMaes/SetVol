@@ -1,5 +1,5 @@
 # SetVol - by TommyMaes
-A little program that sets a specific volume on every windows startup
+A little program that sets a specific volume on every Windows startup
 
 Jut make sure to unpack before installing
 
