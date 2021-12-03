@@ -1,5 +1,5 @@
 # SetVol - by TommyMaes
-A little program that sets a specific volume on every Windows startup
+A little program that sets a specific volume on every Windows startup (Tested on Windows 10 Home)
 
 Jut make sure to unpack before installing
 
@@ -11,7 +11,7 @@ Very simple and lightweight
 
 Doesn't stay running in background, no systemtray icon or any notifications
 
-Working on option for sleep/hibernation. For now only works on startup after shutdown or restart
+Works on startup after shutdown or restart. Does not work with sleep/hibernation.
 
 ################################################################################
 
@@ -28,7 +28,7 @@ Working on option for sleep/hibernation. For now only works on startup after shu
 
   - Unpack before installing
 
-  - Use Installer for installation
+  - Use Installer for installation (do NOT run as admin !!!)
   
     Install location: C:\SetVol
   
