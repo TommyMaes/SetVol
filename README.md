@@ -3,6 +3,8 @@ A little program that sets a specific volume on every Windows startup
 
 Jut make sure to unpack before installing
 
+Do NOT run as admin !!!
+
 ################################################################################
 
 Very simple and lightweight
