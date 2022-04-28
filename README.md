@@ -15,10 +15,13 @@ Works on startup after shutdown or restart. Does not work with sleep/hibernation
 
 ################################################################################
 
-![setvol_menu](https://user-images.githubusercontent.com/85175227/125133592-59592580-e106-11eb-88c1-e1e8a140d9c5.JPG)
 
 
-![setvol_volume](https://user-images.githubusercontent.com/85175227/125133600-5b22e900-e106-11eb-83b9-5d282f0c68e0.JPG)
+<img width="453" alt="SetVol_menu_532" src="https://user-images.githubusercontent.com/85175227/165842380-2aecd734-dfae-4c69-ab2d-6576d11127a4.png">
+
+
+<img width="449" alt="setvol_volume_532" src="https://user-images.githubusercontent.com/85175227/165842418-763bee03-5da5-433b-818f-388142dd04a0.png">
+
 
 
   --------------------------------------------------------------
