@@ -37,8 +37,6 @@ Works on startup after shutdown or restart. Does not work with sleep/hibernation
   
     On the desktop there will be SetVol and SetVolTest
   
-    Delete them if you want, they are also located in C:\SetVol
-  
   - Use SetVolTest to manually activate the preset 
   
   - Use SetVol to:
